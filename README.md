@@ -6,4 +6,5 @@
 
 ##Salvando alterações no Git
 
-- comando git push test
+- comando git push
+- comando git pull
